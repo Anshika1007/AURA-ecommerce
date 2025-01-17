@@ -47,6 +47,7 @@ To run this project locally, follow these steps:
 - Node.js and npm installed on your machine.  
 
 📖 Learning Outcomes Working on AURA allowed me to:
+
 1.Gain hands-on experience with the MERN stack.
 2.Implement secure authentication using JWT.
 3.Learn to integrate payment gateways with Stripe.
