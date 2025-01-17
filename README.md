@@ -49,18 +49,31 @@ To run this project locally, follow these steps:
 📖 Learning Outcomes Working on AURA allowed me to:
 
 1.Gain hands-on experience with the MERN stack.
+
 2.Implement secure authentication using JWT.
+
 3.Learn to integrate payment gateways with Stripe.
+
 4.Manage and store images efficiently using Cloudinary.
+
+
+
 
 📫 Feedback
 I’d love to hear your feedback or suggestions to improve this project. Feel free to reach out or contribute!
 
+
+
 🤝 Contributing
 Contributions are welcome! To contribute:
 
+
 1.Fork the repository.
+
 2.Create a feature branch.
+
 3.Commit your changes.
+
 4.Submit a pull request.
+
 
